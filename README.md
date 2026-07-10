@@ -17,4 +17,6 @@ Bu proje, 'Online Retail II' veri setini kullanarak bir e-ticaret işletmesinin 
 1. Gerekli kütüphaneleri yükleyin: `pip install pandas numpy lifetimes mlxtend openpyxl`
 2. `main-functions.py` dosyasını çalıştırarak Excel çıktılarını üretin.
 3. `CRM-Analisyt.pbit` dosyasını açarak verileri inceleyin.
-* Çapraz Satış (Cross-Sell) verisi yıllara göre değil toplam veri seti baz alınarak hesaplanmıştır. 
+
+* Çapraz Satış (Cross-Sell) verisi yıllara göre değil toplam veri seti baz alınarak hesaplanmıştır.
+* RFM_CLTV.xlsx dosyası 25MB üzerinde linkli : ttps://docs.google.com/spreadsheets/d/1la_Wo3rzO2a3xbyGax1axiD7ykNC8sFT/edit?usp=sharing&ouid=104006677213691033056&rtpof=true&sd=true
