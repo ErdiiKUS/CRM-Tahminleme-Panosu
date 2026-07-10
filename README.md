@@ -19,4 +19,6 @@ Bu proje, 'Online Retail II' veri setini kullanarak bir e-ticaret işletmesinin 
 3. `CRM-Analisyt.pbit` dosyasını açarak verileri inceleyin.
 
 * Çapraz Satış (Cross-Sell) verisi yıllara göre değil toplam veri seti baz alınarak hesaplanmıştır.
-* RFM_CLTV.xlsx dosyası 25MB üzerinde linkli : ttps://docs.google.com/spreadsheets/d/1la_Wo3rzO2a3xbyGax1axiD7ykNC8sFT/edit?usp=sharing&ouid=104006677213691033056&rtpof=true&sd=true
+* RFM ve CLTV xlsx dosyalarının boyutu 25 MB dan yüksek olduğu için aşağıda linkleri paylaşılmıştır.
+* RFM.xlsx : https://docs.google.com/spreadsheets/d/1HU1xVpb64Q_VEgoOH3ElMynLuVGrG9vA/edit?usp=sharing&ouid=104006677213691033056&rtpof=true&sd=true
+* RFM_CLTV.xlsx : https://docs.google.com/spreadsheets/d/1la_Wo3rzO2a3xbyGax1axiD7ykNC8sFT/edit?usp=sharing&ouid=104006677213691033056&rtpof=true&sd=true
