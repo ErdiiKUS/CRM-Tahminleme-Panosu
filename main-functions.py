@@ -240,7 +240,7 @@ def cross_sell_items(DataFrame):
     rules["consequents"] = rules["consequents"].apply(lambda x: list(x)[0]).astype(str)
 
     cross_sell_df = rules[['antecedents', 'consequents', 'support', 'confidence', 'lift']]
-    cross_sell_df.to_excel("cross_sell_onerileri.xlsx", index=False)
+    cross_sell_df.to_excel("CROSS_SELL.xlsx", index=False)
     print("Cross-Sell tablosu başarıyla kaydedildi!")
     return cross_sell_df
 
